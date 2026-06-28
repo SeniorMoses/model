@@ -1,0 +1,6 @@
+fastapi
+gunicorn 
+uvicorn
+pandas
+scikit-learn
+pydantic
